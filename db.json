@@ -1,0 +1,61 @@
+{
+  "category": [
+    {
+      "categorytitle": "check our cd collection",
+      "categorycontent": "Donec pede justo, fringilla vel, al, vulputate eget.",
+      "categorybackgroundColor": "category"
+    },
+    {
+      "categorytitle": "listen before purchase",
+      "categorycontent": "Donec pede justo, fringilla vel, al, vulputate eget.",
+      "categorybackgroundColor": "category category-color-red"
+    },
+    {
+      "categorytitle": "upcoming events",
+      "categorycontent": "Donec pede justo, fringilla vel, al, vulputate eget.",
+      "categorybackgroundColor": "category"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Best Music",
+      "star": "",
+      "content": "The best music Year",
+      "price": 14,
+      "article": "p1",
+      "image": "https://i.ytimg.com/vi/LaQj636PJh0/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Gaming Music",
+      "star": "",
+      "content": "The good music for Gaming",
+      "price": 17,
+      "article": "p2",
+      "image": "https://i.ytimg.com/vi/2l58uCwJeSY/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Trap Music",
+      "star": "",
+      "content": "Nice Trap Music",
+      "price": 18,
+      "article": "p3",
+      "image": "https://i.ytimg.com/vi/yW2EfIteED4/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Trick Treat Music",
+      "star": "",
+      "content": "Very cool Trick Treat Music",
+      "price": 22,
+      "article": "p4",
+      "image": "https://i.ytimg.com/vi/Eg4hM060AfU/maxresdefault.jpg"
+    }
+  ],
+  "cart": [],
+  "order": [
+    
+  ]
+}

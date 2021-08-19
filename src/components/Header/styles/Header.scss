@@ -1,0 +1,38 @@
+.header {
+    height: 200px;
+    width: 1350px;
+    margin: 30px auto;
+
+
+    & .header-logo {
+        margin: 40px 0px 0px 100px;
+        float: left;
+
+        & img {
+            width: 100px;
+            height: auto;
+        }
+
+        & .header-title-M {
+            font-size: 50px;
+        }
+
+        & .header-title {
+            font-size: 50px;
+        }
+    }
+
+    & .header-links {
+        float: right;
+        margin: 120px 20px 0px 0px;
+
+        & a {
+            font-size: 20px;
+            font-weight: 700;
+            color: black;
+            text-decoration: none;
+            margin-right: 80px;
+            text-transform: uppercase;
+        }
+    }
+}

@@ -1,0 +1,37 @@
+.category {
+    margin-top: 30px;
+    display: inline-block;
+    border-radius: 5px;
+    color: white;
+    width: 230px;
+    height: 100px;
+    background-color: rgb(54, 54, 54);
+    text-align: left;   
+
+    & img {
+        position: absolute;
+        margin: 0px 10px 0px 4px;  
+        width: 30px;
+        height: 30px;
+    }
+
+    & .category-title {
+        padding-top: 10px;
+        margin-left: 35px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 13px;
+    }
+
+    & .category-content {
+        font-size: 10px;
+        color:rgb(54, 54, 54);
+    }
+}
+
+.category-color-red {
+    background-color: rgb(194, 56, 56);
+    & .category-content {
+        color: black;
+    }
+}

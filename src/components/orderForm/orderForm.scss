@@ -1,0 +1,33 @@
+.order-block {
+
+    .order {
+        margin: 0 auto;
+        padding: 20px 0px;
+        width: 50%;
+        height: 100%;
+        border-radius: 10px;
+        background-color: rgb(211, 209, 209);
+    
+        & .cart-btn-buy {
+            width: 500px;
+            height: 30px;
+            background-color: rgb(3, 145, 15);
+            color: white;
+            border-radius: 5px;
+            border: none;
+        }
+    
+        & input {
+            width: 70%
+        }
+    
+        & p {
+            margin-left: 14%;
+            text-align: left;
+        }
+    }
+
+    & .errors {
+        color: red;
+    }
+}

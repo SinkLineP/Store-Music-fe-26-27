@@ -1,0 +1,35 @@
+.welcome {
+    margin-top: 30px;
+    height: 100px;
+    background-color: white;
+
+    & .welcome-block-left {
+        float: left;
+        background-color: black;
+        width: 280px;
+        height: 100px;
+    }
+
+    & .welcome-block-center {
+        float: left;
+        background-color: white;
+        width: 794px;
+        height: 100px;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 30px;
+
+        & span {
+            padding: 5px;
+            background-color: yellow;
+            color: white;
+        }
+    }
+
+    & .welcome-block-right {
+        float: right;
+        background-color: black;
+        width: 280px;
+        height: 100px;
+    }
+}
